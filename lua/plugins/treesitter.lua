@@ -44,7 +44,7 @@ return {
                     node_decremental = "<bs>",
                 },
             },
-            rainbow = {
+	rainbow = {
                 enable = true,
                 disable = { "html" },
                 extended_mode = false,
